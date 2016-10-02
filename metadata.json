@@ -1,12 +1,12 @@
 {
-  "name": "camptocamp-puppetserver",
-  "version": "2.1.0",
-  "author": "camptocamp",
+  "name": "dhipuppet-puppetserver",
+  "version": "1.0.0",
+  "author": "DHI Group Inc.",
   "summary": "Puppet module for puppetserver",
   "license": "Apache-2.0",
-  "source": "https://github.com/camptocamp/puppet-puppetserver",
-  "project_page": "https://github.com/camptocamp/puppet-puppetserver",
-  "issues_url": "https://github.com/camptocamp/puppet-puppetserver/issues",
+  "source": "https://github.com/DiceHoldingsInc/dhipuppet-puppetserver",
+  "project_page": "https://github.com/DiceHoldingsInc/dhipuppet-puppetserver",
+  "issues_url": "https://github.com/DiceHoldingsInc/dhipuppet-puppetserver/issues",
   "dependencies": [
     {
       "name": "herculesteam/augeasproviders_core",

@@ -1,3 +1,8 @@
+## 2016-10-03 - Release 1.0.0 (DHI Versioning)
+
+- Updated metadata to reflect new naming convention
+- Added test directory and puppet manifest file to allow the module to be implemented using puppet apply
+
 ## 2016-03-15 - Release 2.1.0
 
 - Various test fixes
